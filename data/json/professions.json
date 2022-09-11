@@ -702,9 +702,8 @@
     "items": {
       "both": {
         "items": [ "straw_sandals", "breeches", "coat_straw", "gloves_wraps_leather", "bellyband", "straw_hat", "geta"],
-        "entries": [ { "item": "katana", "container-item": "scabbard" }, { "item": "tanto", "container-item": "sheath" },]
+        "entries": [ { "item": "katana", "container-item": "scabbard" }, { "item": "tanto", "container-item": "sheath" }]
       },
-      "female": [ "chestwrap" ]
     },
     "proficiencies": ["prof_carving"],
     "skills": [
