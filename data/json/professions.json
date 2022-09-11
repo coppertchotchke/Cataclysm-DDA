@@ -692,6 +692,30 @@
     ],
     "traits": [ "PROF_CHURL" ]
   },
+  
+   {
+    "type": "profession",
+    "id": "ronin",
+    "name": "Rōnin",
+    "description": "You were a samurai serving under a lord, till some hellish magick tore you from their employ. Now you wander, aimless in this strange realm.",
+    "points": 6,
+    "items": {
+      "both": {
+        "items": [ "straw_sandals", "breeches", "coat_straw", "gloves_wraps_leather", "bellyband", "straw_hat", "geta"],
+        "entries": [ { "item": "katana", "container-item": "scabbard" }, { "item": "tanto", "container-item": "sheath" },]
+      },
+      "female": [ "chestwrap" ]
+    },
+    "proficiencies": ["prof_carving"],
+    "skills": [
+      { "level": 4, "name": "melee" },
+      { "level": 2, "name": "dodge" },
+      { "level": 2, "name": "survival" },
+      { "level": 2, "name": "tailor" }
+    ],
+    "traits": [ "MARTIAL_ARTS5" ]
+  },
+  
   {
     "type": "profession",
     "id": "labtech",
